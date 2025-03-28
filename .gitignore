@@ -4,3 +4,6 @@ network-iac-virginia-prod/.terraform/providers/registry.terraform.io/hashicorp/a
 network-iac-virginia-prod/.terraform/providers/registry.terraform.io/hashicorp/tls/4.0.6/linux_amd64/LICENSE.txt
 network-iac-virginia-prod/.terraform/providers/registry.terraform.io/hashicorp/tls/4.0.6/linux_amd64/terraform-provider-tls_v4.0.6_x5
 network-iac-virginia-prod/network-iac-virginia-prod/
+.terraform.lock.hcl
+.terraform/providers/registry.terraform.io/hashicorp/aws/5.93.0/linux_amd64/LICENSE.txt
+.terraform/providers/registry.terraform.io/hashicorp/aws/5.93.0/linux_amd64/terraform-provider-aws_v5.93.0_x5
