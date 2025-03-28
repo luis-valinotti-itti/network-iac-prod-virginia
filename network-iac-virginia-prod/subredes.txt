@@ -1,0 +1,13 @@
+cidr_block           = "10.27.16.0/21"
+
+snet-wan-fgt-use1-1 "10.27.16.0/24"
+snet-wan-fgt-use1-2 "10.27.17.0/24"
+
+snet-lan-fgt-use1-1 "10.27.18.0/24"
+snet-lan-fgt-use1-2 "10.27.19.0/24"
+
+snet-tgw-att-use1-1 "10.27.20.0/27"
+snet-tgw-att-use1-2 "10.27.20.32/27"
+
+hasync-hamgmt-az1 "10.27.20.64/28"
+hasync-hamgmt-az2 "10.27.20.80/28"
